@@ -1,5 +1,5 @@
 # Web-Books-Tracker
-An extension tool for storing and tracking Web Novels, Webtoons, Mangas, and other style of publications on a table.
+A simple extension tool for storing and saving Web Novels, Webtoons, Mangas, and other style of publications on a table.
 
 # Instructions
 [Add] Button - Add New rows <br />
