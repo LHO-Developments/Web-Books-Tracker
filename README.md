@@ -7,7 +7,7 @@ An extension tool for storing and tracking Web Novels, Webtoons, Mangas, and oth
 [Save] Button - Save all inputs in the table (ONLY for the ones that have a valid Chapter URL) <br />
 [Create Links] Button - Create a chapter link for the next chapter <br />
 
-<br /><br /><br />
+<br />
 
 EXAMPLE:
 Web Novel Name: Emperors Dominations <br />
