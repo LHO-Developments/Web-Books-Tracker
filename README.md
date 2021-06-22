@@ -10,7 +10,7 @@ An extension tool for storing and tracking Web Novels, Webtoons, Mangas, and oth
 <br />
 
 EXAMPLE: <br />
-Web Novel Name: Emperors Dominations <br />
+Web Novel Name: Emperors Dominations <br /><br />
 Chapter URL: https://www.wuxiaworld.com/novel/emperors-domination/emperor-chapter-1  <br />
 Note: The end path of the url must not change ex: emperor-chapter-1,emperor-chapter-2,emperor-chapter-3, etc. If it changes, [Create Link] will not work correctly ex: emperor-chapter-1,emperor-chapter-Test-2,emperor-chapter-Test-PI-3 <br /><br />
 Chapter Number: 1 <br />
