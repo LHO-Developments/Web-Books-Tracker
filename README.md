@@ -19,3 +19,7 @@ Next Chapter Links: https://www.wuxiaworld.com/novel/emperors-domination/emperor
 
 <br /> <br />
 Logo Designer: https://www.instagram.com/just_ngo/
+<br />
+Chrome Store: https://chrome.google.com/webstore/detail/web-books-tracker/aelnlcpoccbfboeplilkphgddjoojipl?hl
+<br /> <br />
+Note: To change the number of rows, go to the constant.js and change the value from there.
