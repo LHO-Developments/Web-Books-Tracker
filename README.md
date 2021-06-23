@@ -16,3 +16,6 @@ Note: The end path of the url must not change ex: emperor-chapter-1,emperor-chap
 Chapter Number: 1 <br />
 Note:(Typically be your current chapter you are at) <br /><br />
 Next Chapter Links: https://www.wuxiaworld.com/novel/emperors-domination/emperor-chapter-2 <br />
+
+<br /> <br />
+Logo Designer: https://www.instagram.com/just_ngo/
